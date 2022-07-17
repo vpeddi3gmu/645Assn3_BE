@@ -18,4 +18,4 @@ This code in src folder have two apis in SurveyFormController.java
 
 #Database Mysql
 
-Mysql_queries.sql :- This file contains query related to creating survey table and its fields which should be executed on Mysql client. In my case i have used eclipse as mysql client for running sql queries
+Mysql_queries.sql :- This file contains query related to creating survey table and its fields which should be executed on Mysql client. In my case i have used eclipse as mysql client for running sql queries. This file is present under src folder
