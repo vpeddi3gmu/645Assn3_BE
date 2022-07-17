@@ -1,4 +1,8 @@
 
+#Vamsi Krishna Peddi
+
+#This file contains queries related to sql which should be executed before stating this project 
+#so that required table will get created
 
 drop table SurveyDetails;
 

@@ -1,3 +1,7 @@
+//Author:- Vamsi Krishna Peddi
+
+//This code is for object oriented representation of a sql table in Java. Also acts as a java bean
+
 package com.assn3.entities;
 
 import javax.persistence.Column;
