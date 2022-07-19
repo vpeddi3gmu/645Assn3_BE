@@ -20,3 +20,4 @@ FROM tomcat:9.0.56-jdk17-temurin
 COPY --from=builder  /work_dir/target/645Assn3.war /usr/local/tomcat/webapps/
 LABEL maintainer="vpeddi3@gmu.edu"
 EXPOSE 8080/tcp
+
