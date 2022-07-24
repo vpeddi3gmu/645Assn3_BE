@@ -25,7 +25,7 @@ import com.assn3.repos.SurveyDetailsRepository;
 public class SurveyFormController {
 
 	@Autowired
-	private SurveyDetailsRepository sdr;
+	private SurveyDetailsRepository<SurveyDetails> sdr;
 
 	@PostMapping("/survey_form_submission")
 	public ResponseEntity<String> take_survey_details(@ModelAttribute SurveyDetails sdls) {
